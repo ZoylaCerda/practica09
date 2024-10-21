@@ -31,7 +31,7 @@ Esta es una aplicación de Android sencilla que utiliza **Jetpack Compose** y **
 1. **Clonar el repositorio**:
 
    ```bash
-   git clone [https://github.com/tu_usuario/camera-app-compose.git](https://github.com/ZoylaCerda/practica09.git)
+   git clone https://github.com/ZoylaCerda/practica09.git
    cd camera-app-compose
    ```
 
