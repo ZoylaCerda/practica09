@@ -112,3 +112,5 @@ En el archivo `AndroidManifest.xml`:
    - Usa un **dispositivo físico** si el emulador no soporta la cámara adecuadamente.
 
 ---
+
+https://ufgedu-my.sharepoint.com/:v:/g/personal/ia_marvind_ufg_edu_sv/EXcgZ2OXTlRKlk2yEyEdyDwB-NukUiIFuyR1ttSDS20o3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CEDbeA
